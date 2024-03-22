@@ -76,7 +76,7 @@ const PayingFees = ({
       }
 
       // Show an error message to the user
-      alert("Error during payment. Please try again later.");
+      alert("This email id user in not exists");
     }
   };
 
