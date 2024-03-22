@@ -22,7 +22,7 @@ const StudentsList = ({ pendingCount, setPendingCount }) => {
     <>
       <div>
         <div>
-          <p onClick={handleCLick}>Register Number</p>
+          <p onClick={handleCLick}>Student List</p>
           <table>
             <thead>
               <tr>

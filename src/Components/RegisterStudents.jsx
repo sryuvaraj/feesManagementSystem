@@ -43,7 +43,7 @@ const RegisterStudents = ({pendingCount, setPendingCount,studentsCount,setStuden
   return (
     <>
       <div>
-        <div>RegisterStudents :</div>
+        <div>Register Student :</div>
         <div className="d-flex justify-content-center">
           <form onSubmit={handleSubmit} style={{ width: "600px" }}>
             <div className="form-group">
